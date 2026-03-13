@@ -7,7 +7,7 @@
 
 ## 🚀 Sobre mim
 
-• Mais de 10 anos trabalhando com infraestrutura SAP Business One <br>
+• Mais de 10 anos trabalhando com infraestrutura SAP <br>
 • Certificado como SAP BTP Solution Architect <br>
 • Estudando SAP Integration Suite (CPI) <br>
 • Desenvolvendo projetos de integração e compartilhando conhecimento com a comunidade <br>
