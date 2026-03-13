@@ -90,10 +90,13 @@ Operações CRUD demonstradas:
 
 ## 🌎 Conecte-se comigo
 
-LinkedIn
-GitHub
-SAP Community
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jean%20Cardoso%20de%20Souza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-cardoso-de-souza)
+
+[![GitHub](https://img.shields.io/badge/GitHub-souzajean-181717?style=for-the-badge&logo=github)](https://github.com/souzajean)
+
+⭐ Sempre aprendendo e construindo integrações com SAP BTP
+
+
 
 ---
 
-⭐ Sempre aprendendo e construindo integrações com SAP BTP
