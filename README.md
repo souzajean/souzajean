@@ -84,9 +84,18 @@ Operações CRUD demonstradas:
 
 ## 📊 Estatísticas do GitHub
 
-![Snake animation](https://raw.githubusercontent.com/souzajean/souzajean/output/github-contribution-grid-snake.svg)
+![Resumo](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=souzajean&theme=tokyonight)
 
 ![Streak](https://streak-stats.demolab.com?user=souzajean&theme=tokyonight)
+
+
+## 📊 Estatísticas do GitHub
+
+![Stats](https://github-readme-stats.vercel.app/api?username=souzajean&show_icons=true&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com?user=souzajean&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souzajean&layout=compact&theme=tokyonight)
 
 ---
 
