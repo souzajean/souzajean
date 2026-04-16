@@ -72,6 +72,7 @@ Laboratório completo utilizando:
 • API OData <br>
 • Postman <br>
 • SAP CPI <br>
+• Event Mesh <br>
 
 Operações CRUD demonstradas:
 
