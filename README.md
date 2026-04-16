@@ -90,6 +90,15 @@ Operações CRUD demonstradas:
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/souzajean/souzajean/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/souzajean/souzajean/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/souzajean/souzajean/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+
 ## 🌎 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jean%20Cardoso%20de%20Souza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-cardoso-de-souza)
